@@ -24,7 +24,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Social Media
 
-* [Twitter](www.twitter.com/devlargs)
-* [Instagram](www.instagram.com/devlargs)
-* [LinkedIn](www.linkedin.com/in/devlargs)
-* [Facebook](www.facebook/devlargs)
+* <a href="http://twitter.com/devlargs" target="_blank">Twitter</a>
+* <a href="http://www.instagram.com/devlargs" target="_blank">Instagram</a>
+* <a href="http://www.linkedin.com/in/devlargs" target="_blank">LinkedIn</a>
+* <a href="http://www.facebook/devlargs" target="_blank">Facebook</a>
